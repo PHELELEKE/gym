@@ -1,0 +1,65 @@
+.gymdumbell{
+    width: 80px;
+    align-items: center;
+    flex: 1;
+    margin-left: 650px;
+}
+.heading{
+    margin-left: 560px;
+    margin-top: 50px;
+    color: white;
+}
+.hr1{
+    width: 900px;
+    margin-left: 250px;
+    align-items: center;
+}
+.grid1{
+    flex: 1;
+    display:grid;
+    grid-template-columns: 700px 700px ;
+   align-items: center;
+    margin-right: 20px;
+}
+.p22{
+    width: 600px;
+    margin-right: 30px;
+    margin-left: 30px;
+    align-items: center;
+    margin-top: 10px;
+}
+.p11{
+    width: 400px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 110px;
+}
+.p111{
+    width: 400px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.controls{
+    text-align: center;
+    font-size: 25px;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,
+    Arial,Noto Sans,sans-serif
+    ,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    color: rgb(192, 223, 213);
+}
+.SIGN{
+    text-align: center;
+    font-size: 25px;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,
+    Arial,Noto Sans,sans-serif
+    ,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    color: rgb(192, 223, 213);
+}
+.button1{
+    margin-top:50px;
+    margin-left: 650px;
+    width: 100px;
+    height: 30px;
+    color: rgb(125, 62, 62);
+}

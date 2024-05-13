@@ -1,0 +1,28 @@
+.firstlogo{
+    flex:1;
+    align-items: center;
+    margin-left: 580px;
+    background-color: black;
+    margin-top: 40px;
+}
+.bod{
+    background-color: rgb(99, 116, 116);
+}
+.CONTACTD{
+    flex:1;
+    align-items: center;
+    margin-left: 580px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.pg2{
+    margin-left: 400px;
+}
+.button1{
+margin-left: 600px;
+flex:1;
+align-items: center;
+width: 100px;
+color: rgb(78, 101, 101);
+margin-top: 50px;
+}

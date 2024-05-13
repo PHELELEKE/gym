@@ -1,0 +1,330 @@
+.Tittle{
+    color: rgb(51, 46, 46);
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    margin-left: 22px;
+}
+.sub-tittle{
+    color:bold black;
+    text-align: center;
+    margin-top: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:inline-block;
+    margin-left: 650px;
+
+}
+.photo{
+    width:1000px;
+    height: 400px;
+    margin-top:0px;
+    font-size: 45;
+    margin-left: 200px;
+    margin-right: 100px;
+   
+
+}
+.Slogan{
+    font-family: "Manrope", Sans-serif;
+    font-feature-settings :normal;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    text-align:center;
+    margin-left:0px;
+
+}
+.About{
+    margin-left:200px;
+    margin-top: 5px;
+    font-size: 20px;
+    color:rgb(82, 74, 74);
+    width: 60px;
+    text-underline-position: below;
+    color: bold;
+}
+.Gallary{
+    margin-left:40px ;
+    margin-top: 0px;
+    width: 60px;
+    height: 70px;
+    font-size: 20px;
+    color: rgb(82, 74, 74);;
+    text-underline-position: below;
+}
+.Contact{
+    font-size: 20px;
+    color:rgb(82, 74, 74);;
+    text-underline-position: below;
+    margin-left:40px;
+}
+.search-bar{
+    margin-left: 1000px;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 900px;
+}
+.hr{
+    width: 900px;
+    align-items: center;
+}
+
+.Pricing{
+    font-size: 20px;
+    color:rgb(82, 74, 74);;
+    text-underline-position: below;
+    margin-left:40px;
+}
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.right{
+   
+   
+    width: 250px;
+    margin-right: 25px;
+    margin-left: 20px;
+}
+.middle-section{
+    
+    flex: 1;
+    
+   
+}
+.last{
+    width: 250px;
+    margin-left: 20px;
+    align-items: center;
+    display: flex;
+    margin-right: 20px;
+
+}
+.search-bar{
+     margin-left: 240px;
+    max-width: 500px;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    flex:1;
+    height: 28px;
+    width: 300px;
+    border-width:1px;
+    border-color: rgb(193, 193, 193);
+    border-style: solid;
+    font-size: 15px;
+    border-radius: 6px;
+    box-shadow: inset 1px 2px 3px rgba(0,0,0,0.15) ;
+  
+    
+
+}
+.dumbel-img{
+    width :30px;
+    margin-left: 100px;
+}
+.right-img{
+    height: 40px;
+    width: 150px;
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    background-color: rgb(191, 197, 201);
+
+}
+.body{
+    margin: 0px;
+    margin-top: 100px;
+   padding-bottom: 700px;
+
+
+
+}
+.search-bar::placeholder{
+ 
+    font-size: 15px;
+    padding-left: 12px;
+}
+.dumbelbb{
+    width: 60px;
+    align-items: center;
+    margin-left: 650px;
+
+}
+.row1{
+    font-size: 25px;
+    font: bold;
+    color: rgb(3, 3, 3);
+    margin-right: 20px;
+    
+}
+.control-raw{
+    flex: 1;
+    display:grid;
+    grid-template-columns: 700px 700px;
+    
+}
+.p1{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.p2{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.p3{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.video11{
+    margin-top: 0px;
+    align-items: center;
+}
+.SUB-header{
+    text-align: center;
+    font-size: 25px;
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,
+    Arial,Noto Sans,sans-serif
+    ,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+
+}
+.sub-sub{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: font-family Comfortaa, sans-serif;
+    color: rgb(16, 155, 8);
+
+}
+.second-grid{
+    flex: 1;
+    display:grid;
+    grid-template-columns: 500px 500px ;
+    align-items: center;
+    margin-left: 30px;
+}
+.thierd-grid{
+    flex: 1;
+    display:grid;
+    grid-template-columns: 500px 500px ;
+    align-items: center;
+    margin-left: 30px;
+}
+.first{
+    align-items: center;
+    margin-left: 60px;
+    width: 450px;
+    margin-top: 100px;
+  
+    
+
+}
+.second{
+    align-items: center;
+    margin-left: 150px;
+    width: 450px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+.freewaight{
+    margin-left: 50px;
+}
+.free
+{
+margin-left: 60px;
+width: 150px;
+}
+.Cardio{
+margin-left: 140px;
+font-size: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cardio-text{
+margin-left: 170px;
+width: 150px;
+
+}
+.Image-bottom{
+width: 600px;
+height: 500px;
+align-items: center;
+margin-left: 50px;
+}
+.sign{
+margin-left: 0px;
+align-items: center;
+background-color: rgb(222, 75, 75);
+color: white;
+width: 700px;
+height: 40px;
+border-radius: 15px;
+
+}
+.Login{
+margin-left: 9px;
+align-items: center;
+background-color:rgb(188, 226, 131);
+color: white;
+width: 700px;
+height: 40px;
+border-radius: 15px;
+}
+.last-search
+{
+width: 30px;
+}
+.menu{
+align-items: center;
+width:30px
+
+}
+.button-menu{
+background-color: rgb(245, 232, 232);
+border-radius: 8px;
+border-width:1px;
+    border-color: rgb(193, 193, 193);
+    border-style: solid;
+    margin-top:8px;
+    margin-left: 0px;
+
+}
+.second-grid-bottom{
+grid-template-columns: 400px 400px;
+flex: 1;
+display:grid;
+    
+}
+.last-paragraph{
+padding-left: 0px;
+margin-left:0px;
+font-size: 20px;
+width: 200px;
+color: rgb(15, 52, 6);
+
+}
+.griid{
+grid-template-columns: 500px 500px;
+flex:1;
+display: grid;
+}
+.pg{
+padding-left: 0px;
+margin-left:0px;
+font-size: 20px;
+width: 200px;
+color: rgb(15, 52, 6);
+}
+.pg2{
+padding-left: 0px;
+margin-left:0px;
+font-size: 20px;
+width: 200px;
+color: rgb(15, 52, 6);
+}
+.pricings{
+    font-size: 20px;
+    color:rgb(82, 74, 74);;
+    text-underline-position: below;
+    margin-left:50px;
+}
